@@ -1,0 +1,72 @@
+﻿@model WebApplication3.Models.Parrot
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Parrot</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Species)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Species)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Breeder)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Breeder)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Cost)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Cost)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sold)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Sold)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Deceased)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Deceased)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.OldWorld)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OldWorld)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NewWorld)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NewWorld)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ParrotId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
