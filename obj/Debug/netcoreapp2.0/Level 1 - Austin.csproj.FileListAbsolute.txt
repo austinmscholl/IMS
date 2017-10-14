@@ -1,0 +1,11 @@
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\Level 1 - Austin.deps.json
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\Level 1 - Austin.runtimeconfig.json
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\Level 1 - Austin.runtimeconfig.dev.json
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\Level 1 - Austin.dll
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\Level 1 - Austin.pdb
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\Level 1 - Austin.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\Level 1 - Austin.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\Level 1 - Austin.AssemblyInfoInputs.cache
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\Level 1 - Austin.AssemblyInfo.cs
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\Level 1 - Austin.dll
+C:\Users\Austin\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\Level 1 - Austin.pdb
